@@ -1,4 +1,4 @@
-import MyCalendar from "./Calendar";
+import MyCalendar from "./components/Calendar";
 import ListGroup from "./components/ListGroup";
 
 function App() {
