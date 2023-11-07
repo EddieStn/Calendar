@@ -1,9 +1,10 @@
-import Calendar from "./Calendar";
+import MyCalendar from "./Calendar";
+import ListGroup from "./components/ListGroup";
 
 function App() {
   return (
     <div>
-      <Calendar />
+      <MyCalendar />
     </div>
   );
 }
